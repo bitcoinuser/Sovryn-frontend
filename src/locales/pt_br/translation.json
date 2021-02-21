@@ -556,6 +556,7 @@
     },
     "tabs": {
       "userAssets": "Meus ativos",
+      "vestedAssets": "Ativos adquiridos",
       "userNFTS": "NFTS"
     }
   },
@@ -579,6 +580,8 @@
       "deposit": "Depositar",
       "swap": "Trocar",
       "trade": "Operar"
+      "claimSov": "Reinvindicar SOV",
+      "redeemRBTC": "Resgatar rBTC"
     }
   },
   "topUpHistory": {
